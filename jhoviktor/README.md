@@ -5,3 +5,5 @@ Porta utilizada: "PORT="
 Modo: "DEBUG="
 Nome de usuário: "USER="
 Senha: "TOKEN="
+
+3c08dc6 (HEAD -> dev) Descrição das variáveis de ambiente
